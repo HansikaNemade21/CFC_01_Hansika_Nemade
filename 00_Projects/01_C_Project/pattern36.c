@@ -26,8 +26,7 @@
 
 
 //Entry point of function
-void pattern36(void);
-void main(void)
+void pattern36(void)
 {
   int ole = 1, ile = 1;
   int asciiA = 65, space = 5, space2 = 5;
