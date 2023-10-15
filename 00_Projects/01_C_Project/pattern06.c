@@ -27,8 +27,7 @@
 
 
 //Entry point of function
-void pattern06(void);
-void main(void)
+void pattern06(void)
 {
   int ole = 1, ile = 1;
 
